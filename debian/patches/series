@@ -2,3 +2,4 @@
 path_max.diff
 src_glx_dri_common.h.diff
 fix-clover-build-without-spirv.diff
+rockchip_ebc.patch
